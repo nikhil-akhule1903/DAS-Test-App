@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="rarely">Do not apply to me at all</string>
+    <string name="sometimes">Apply to me to some degree, or some of the time</string>
+    <string name="quite_sometimes">Apply to me to a considerable degree</string>
+    <string name="mostly">Applied to me very much or most of the time</string>
 </resources>
